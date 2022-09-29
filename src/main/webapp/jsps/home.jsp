@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center"> CHAMPIONS DEVELOPMENT TEAM AT WORK.</h1>
+<h1 align="center"> CHAMPIONS DEVELOPMENT TEAM AT WORK..</h1>
 <h1 align="center">code for the visa-app has been developed and deployed to the Dev app-server.
 	UAT can now commence testing with relative ease...</h1>
 <hr>
